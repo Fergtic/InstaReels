@@ -1,0 +1,14 @@
+{
+  "friends": [
+    {
+      "username": "friend1",
+      "interests": ["absurd", "dark_humor", "gaming"],
+      "max_shares_per_day": 1440
+    },
+    {
+      "username": "friend2",
+      "interests": ["absurd", "dark_humor", "gaming"],
+      "max_shares_per_day": 1440
+    }
+  ]
+}

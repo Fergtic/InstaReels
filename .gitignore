@@ -1,0 +1,34 @@
+# Credentials and sensitive data
+config.json
+.env
+instagram_session.json
+
+# Database
+*.db
+
+# Temporary files
+temp_reels/
+STOP
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Whisper model cache
+*.pt
